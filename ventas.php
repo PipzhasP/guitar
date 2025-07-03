@@ -118,7 +118,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
   <?php endforeach; ?>
 
   <br>
-  <a class="boton-regresar" href="guitarra.php"> Regresar</a>
+  <a class="boton-regresar" href="index.php"> Regresar</a>
 
 </body>
 </html>

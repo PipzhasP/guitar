@@ -53,7 +53,7 @@
       <source src="854923-hd_1920_1080_25fps.mp4" type="video/mp4">
       Tu navegador no soporta el video.
     </video>
-    <a class="btn-regresar" href="quitarra.php">← Regresar</a>
+    <a class="btn-regresar" href="index.php">← Regresar</a>
   </div>
 </body>
 </html>

@@ -90,7 +90,7 @@
         }
 
         if (isset($_POST["regresar"])) {
-            header("Location: guitarra.php");
+            header("Location: index.php");
             exit;
         }
         ?>

@@ -83,7 +83,7 @@ $fotones = [
     </div>
   <?php endforeach; ?>
 
-  <a href="guitarra.php"><button>Regresar</button></a>
+  <a href="index.php"><button>Regresar</button></a>
 
 </body>
 </html>
